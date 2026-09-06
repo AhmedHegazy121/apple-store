@@ -1,10 +1,9 @@
 
-
+ # [Apple iPhone 15 Pro Clone]()
 <div align="center">
-  # [Apple iPhone 15 Pro Clone](https://apple-store-zoqf.vercel.app/)
- 
+ <h1>Apple iPhone 15 Pro Clone</h1>
   
-  <img style="margin-top:20px" src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
+  <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
   
   <br/><br/>
 
@@ -14,13 +13,11 @@
   <br/><br/>
 
   <!-- Fixed Action Links using your live link -->
-  <a href="https://vercel.app" target="_blank">
-    <img src="https://shields.io🚀_Live_Demo-007ACC?style=flat-square" alt="Live Demo" height="24" />
+  <a href="https://apple-store-zoqf.vercel.app/" target="_blank">
+   
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io💻_Source_Code-24292E?style=flat-square" alt="Source Code" height="24" />
-  </a>
+  
+
 </div>
 
 ---
@@ -30,4 +27,5 @@
 * **3D Product Showcase:** Developed an interactive 3D product showcase website featuring responsive 3D model rendering via React Three Fiber. 
 * **Smooth Animations:** Designed custom, smooth scroll-driven animations and a custom video carousel using GSAP to maximize user engagement. 
 * **Optimized Architecture:** Architected reusable components and clean folder structures using Vite for optimized development and build speeds.
+
 
