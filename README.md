@@ -3,14 +3,14 @@
 
 
 <div align="center">
-  <h1>Apple iPhone 15 Pro Clone</h1>
+ <a href="https://apple-store-zoqf.vercel.app/">  <h1>Apple iPhone 15 Pro Clone</h1> <a/>
   
   <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
   
   <br/><br/>
 
   <!-- Badges -->
-  <img src="#React Native" alt="React" />
+  <img src="img/react.svg" alt="React" />
   <img src="https://shields.io" alt="Three.js" />
   <img src="https://shields.io" alt="GSAP" />
   <img src="https://shields.io" alt="Tailwind CSS" />
