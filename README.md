@@ -1,16 +1,25 @@
-# [Apple Website](https://apple-store-zoqf.vercel.app/)
+# [Apple iPhone 15 Pro Clone](https://apple-store-zoqf.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img src="coverApple.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
 
-## React Compiler
+<br/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![React](https://shields.io)
+![Three.js](https://shields.io)
+![GSAP](https://shields.io)
+![Tailwind CSS](https://shields.io)
 
-## Expanding the ESLint configuration
+<br/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+➡️ [Live Demo](https://your-live-link.com) | 💻 [Source Code](https://your-code-link.com)
+
+---
+
+### Project Overview
+
+*   **3D Product Showcase:** Developed an interactive 3D product showcase website featuring responsive 3D model rendering via React Three Fiber. 
+*   **Smooth Animations:** Designed custom, smooth scroll-driven animations and a custom video carousel using GSAP to maximize user engagement. 
+*   **Optimized Architecture:** Architected reusable components and clean folder structures using Vite for optimized development and build speeds.
+
