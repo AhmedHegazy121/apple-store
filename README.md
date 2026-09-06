@@ -1,7 +1,8 @@
-# [Apple iPhone 15 Pro Clone](https://apple-store-zoqf.vercel.app/)
+
 
 <div align="center">
-  <a href="https://vercel.app"><h1>Apple iPhone 15 Pro Clone</h1></a>
+  # [Apple iPhone 15 Pro Clone](https://apple-store-zoqf.vercel.app/)
+ 
   
   <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
   
