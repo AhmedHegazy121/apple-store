@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Apple iPhone 15 Pro Clone</h1>
   
-  <img src="coverApple.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
+  <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
   
   <br/><br/>
 
