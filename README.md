@@ -10,7 +10,7 @@
   <br/><br/>
 
   <!-- Badges -->
-  <img src="https://shields.io" alt="React" />
+  <img src="#61DAFB" alt="React" />
   <img src="https://shields.io" alt="Three.js" />
   <img src="https://shields.io" alt="GSAP" />
   <img src="https://shields.io" alt="Tailwind CSS" />
