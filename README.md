@@ -8,8 +8,32 @@
   
   <br/><br/>
 
-  <!-- Adjusted to be small and strictly in one row -->
-  <img src="img/react.svg" alt="React" height="22" />&nbsp;<img src="img/threedotjs.svg" alt="Three.js" height="22" />&nbsp;<img src="img/gsap.svg" alt="GSAP" height="22" />&nbsp;<img src="img/tailwindcss.svg" alt="Tailwind CSS" height="22" />
+  <!-- Tech Stack Grid with Names Underneath -->
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <!-- React -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/react.svg" alt="React" height="25" /><br/>
+        <sub style="font-size: 11px;">React.js</sub>
+      </td>
+      <!-- Three.js -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/threedotjs.svg" alt="Three.js" height="25" /><br/>
+        <sub style="font-size: 11px;">Three.js</sub>
+      </td>
+      <!-- GSAP -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/gsap.svg" alt="GSAP" height="25" /><br/>
+        <sub style="font-size: 11px;">GSAP</sub>
+      </td>
+      <!-- Tailwind CSS -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/tailwindcss.svg" alt="Tailwind CSS" height="25" /><br/>
+        <sub style="font-size: 11px;">Tailwind CSS</sub>
+      </td>
+    </tr>
+  </table>
+
 
   <br/><br/>
 
