@@ -39,7 +39,7 @@
 
   <!-- Fixed Action Links using your live link -->
   <a href="https://apple-store-zoqf.vercel.app/" target="_blank">
-   Live 
+   Live Demo 👆
   </a>
   
 
